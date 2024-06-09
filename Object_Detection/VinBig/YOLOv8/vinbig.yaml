@@ -1,0 +1,26 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../datasets # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+test: # test images (optional)
+
+# Classes
+names:
+  0: Aortic enlargement
+  1: Atelectasis
+  2: Calcification
+  3: Cardiomegaly
+  4: Consolidation
+  5: ILD
+  6: Infiltration
+  7: Lung Opacity
+  8: Nodule/Mass
+  9: Other lesion
+  10: Pleural effusion
+  11: Pleural thickening
+  12: Pneumothorax
+  13: Pulmonary fibrosis
+  14: No finding
+
+# Download script/URL (optional)
+# download: 
