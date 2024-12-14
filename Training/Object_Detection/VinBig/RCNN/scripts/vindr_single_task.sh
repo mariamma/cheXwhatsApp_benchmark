@@ -1,0 +1,14 @@
+python vindr_train_singletask.py --tasks 1   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 2   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 3   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 4   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 5   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 6   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 7   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 8   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 9   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 10   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 11   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 12   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 13   --num_epochs 50 --lr .01
+python vindr_train_singletask.py --tasks 0   --num_epochs 50 --lr .01
